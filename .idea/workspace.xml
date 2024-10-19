@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8affa389-962c-4e39-bdd7-fa899beb632a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ecom/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/home/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/ecom/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/shop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/ecom/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/ecom/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/ecom/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/ecom/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/manage.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom/shop/static/shop/Mbilal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom/shop/static/shop/static.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecom/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/shop/templates/shop/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,10 +35,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\practice\djangopractic\ecom\shop\static\shop" />
+      <recent name="E:\practice\djangopractic\ecom\shop\static" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
