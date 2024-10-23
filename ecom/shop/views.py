@@ -5,7 +5,7 @@ def index(request):
 def contect(request):
     return  HttpResponse("this my contect")
 def about(request):
-    return  HttpResponse("this my about")
+    return  render(request,'shop/about.html')
 def search(request):
     return  HttpResponse("this my search")
 def prodview(request):
