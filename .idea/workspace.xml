@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8affa389-962c-4e39-bdd7-fa899beb632a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ecom/shop/templates/shop/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecom/shop/templates/shop/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecom/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecom/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/shop/templates/shop/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecom/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecom/shop/views.py" afterDir="false" />
     </list>
